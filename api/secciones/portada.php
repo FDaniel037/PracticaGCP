@@ -4,8 +4,8 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $portada = [
-"titulo" => "Tendencias",
-"autor" => "sistemas@uns",
-"resumen" => "Las ultimas tendencias 2024",
+"titulo" => "NO TIENEN REMEDIO",
+"autor" => "Redacción Perú21",
+"resumen" => "Las noticias del 2 de mayo de 2024",
 ];
 ?>
